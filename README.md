@@ -50,13 +50,13 @@ This project is organized into modular folders, each focusing on a major part of
 
 ---
 
-## **Module 5 — Building Workflows 🔗⚡**
+## **Module 5 — Building Workflows 🔗⚡**  
 
-a. **Sequential ➡️** – Tasks execute in a fixed order.
-b. **Parallel 🔀** – Multiple tasks or agents run simultaneously.
-c. **Conditional ❓➡️** – Flow branches based on conditions or agent outputs.
-d. **Looping 🔁** – Steps repeat until a specific criterion is met.
-e. **Branching 🌿** – Workflow splits into multiple paths and merges later as needed.
+a. **Sequential ➡️** – Tasks execute in a fixed order.   
+b. **Parallel 🔀** – Multiple tasks or agents run simultaneously.   
+c. **Conditional ❓➡️** – Flow branches based on conditions or agent outputs.   
+d. **Looping 🔁** – Steps repeat until a specific criterion is met.   
+e. **Branching 🌿** – Workflow splits into multiple paths and merges later as needed.   
 
 ---
 
